@@ -12,7 +12,7 @@ class Program {
     Console.WriteLine(VAZ.GetInfo());
     VAZ.Stop();
     Console.WriteLine(VAZ.GetInfo()); }
-    else Console.WriteLine("Двигатель разряжен!");
+    else Console.WriteLine("Генератор разряжен!");
     
     
   
